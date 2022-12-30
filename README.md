@@ -6,4 +6,3 @@
 [我的主页](http://www.Lixiling.com/)   
 [我的Github](https://github.com/Samantha5252)     
 [我的微博](https://weibo.com/u/5217864380)      
-
